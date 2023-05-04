@@ -8,7 +8,7 @@
 //   1. Initialize logger with Start function
 //   2. Use LogInfo, LogWarning and LogError with
 //      a string
-package helpers
+package goclogger
 
 import (
 	"log"
